@@ -1,6 +1,5 @@
 import { useQuery } from "@apollo/client";
 import { GoogleMap, LoadScript } from "@react-google-maps/api";
-import { useEffect, useState } from "react";
 import { LOAD_CLIENT } from "../everbase/Queries";
 import Card from "./Card";
 
